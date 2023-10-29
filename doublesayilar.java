@@ -1,6 +1,6 @@
 public class doublesayilar {
 public static void main (String[]args) { 
-int a=19;
+int a=21;
 int b=3;
 int c=2;
 double x = a / b;
