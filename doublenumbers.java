@@ -1,6 +1,6 @@
-public class doublesayilar {
+public class doublenumbers {
 public static void main (String[]args) { 
-int a=24;
+int a=21;
 int b=3;
 int c=2;
 double x = a / b;
